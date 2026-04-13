@@ -45,7 +45,7 @@ If you want to run these programs locally on your machine, you will need a C com
 
 **1. Clone the repository**
 ~~~bash
-git clone https://github.com/mohd-ayan-dev/c-data-structures-algorithms.git
+git clone https://github.com/mohdayandev/c-data-structures-algorithms.git
 cd c-data-structures-algorithms
 ~~~
 
